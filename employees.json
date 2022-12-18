@@ -1,0 +1,43 @@
+{
+    "id": "1",
+    "last_name": "Петров",
+    "first_name": "Иван",
+    "phone": "539563965",
+    "position": "программист",
+    "salary": "50000"
+}{
+    "id": "2",
+    "last_name": "Иванова",
+    "first_name": "Мария",
+    "phone": "57104678",
+    "position": "директор",
+    "salary": "100000"
+}{
+    "id": "3",
+    "last_name": "Ли",
+    "first_name": "Максим",
+    "phone": "753613",
+    "position": "начальник",
+    "salary": "85000"
+}{
+    "id": "4",
+    "last_name": "Ким",
+    "first_name": "Владислав",
+    "phone": "5701597",
+    "position": "программист",
+    "salary": "70000"
+}{
+    "id": "5",
+    "last_name": "Измайлова",
+    "first_name": "Анна",
+    "phone": "867294687",
+    "position": "экономист",
+    "salary": "55000"
+}{
+    "id": "6",
+    "last_name": "Петрова",
+    "first_name": "Нина",
+    "phone": "76867",
+    "position": "начальник",
+    "salary": "89000"
+}
